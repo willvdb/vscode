@@ -1,0 +1,31 @@
+{
+    "atomKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "zenMode.hideTabs": false,
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#482c8a",
+        "editor.background": "#1f1f1f",
+        "editor.foreground": "#616161",
+        "editorBracketMatch.background": "#1d1d1d00",
+        "editorBracketMatch.border": "#653ebe",
+        "tab.activeBackground": "#653ebe",
+        "tab.inactiveBackground": "#2e2e2e",
+        "tab.inactiveForeground": "#a0a0a0",
+        "tab.activeBorder": "#ff4141",
+        "editor.selectionBackground": "#482c8a",
+        "sideBar.dropBackground": "#482c8a",
+        "statusBar.background": "#482c8a",
+        "panel.background": "#1d1d1d",
+        "sideBar.background": "#242424"
+    },
+    "editor.tokenColorCustomizations": {
+        "functions": "#4b9fff",
+        "variables": "#df2d2d",
+        "strings": "#52db64",
+        "keywords": "#a03bff",
+        "comments": "#888888",
+        "numbers": "#ce641d"
+    },
+    "workbench.colorTheme": "Fresh Material"
+}
