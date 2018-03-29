@@ -1,7 +1,9 @@
 {
     "atomKeymap.promptV3Features": true,
     "editor.multiCursorModifier": "ctrlCmd",
+    "editor.fontFamily": "'Liberation Mono', 'monospace', monospace, 'Droid Sans Fallback'",
     "editor.formatOnPaste": true,
+    "editor.insertSpaces": false,
     "zenMode.hideTabs": false,
     "workbench.colorCustomizations": {
         "activityBar.background": "#482c8a",
@@ -17,7 +19,8 @@
         "sideBar.dropBackground": "#482c8a",
         "statusBar.background": "#482c8a",
         "panel.background": "#1d1d1d",
-        "sideBar.background": "#242424"
+        "sideBar.background": "#242424",
+        "selection.background": "#9f76ff"
     },
     "editor.tokenColorCustomizations": {
         "functions": "#4b9fff",
