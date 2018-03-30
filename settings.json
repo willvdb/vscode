@@ -4,6 +4,7 @@
     "editor.fontFamily": "'Liberation Mono', 'monospace', monospace, 'Droid Sans Fallback'",
     "editor.formatOnPaste": true,
     "editor.insertSpaces": false,
+    "editor.snippetSuggestions": "top",
     "zenMode.hideTabs": false,
     "workbench.colorCustomizations": {
         "activityBar.background": "#482c8a",
