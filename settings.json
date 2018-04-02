@@ -17,7 +17,8 @@
         "sideBar.dropBackground": "#482c8a",
         "statusBar.background": "#482c8a",
         "panel.background": "#1d1d1d",
-        "sideBar.background": "#242424"
+        "sideBar.background": "#242424",
+        "selection.background": "#c2a7ff"
     },
     "editor.tokenColorCustomizations": {
         "functions": "#4b9fff",
