@@ -6,6 +6,7 @@
     "editor.insertSpaces": false,
     "editor.snippetSuggestions": "top",
     "zenMode.hideTabs": false,
+    "tslint.autoFixOnSave": true,
     "workbench.colorCustomizations": {
         "activityBar.background": "#482c8a",
         "editor.background": "#1f1f1f",
