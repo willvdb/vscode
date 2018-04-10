@@ -27,7 +27,7 @@
     "editor.tokenColorCustomizations": {
         "functions": "#4b9fff",
         "variables": "#df2d2d",
-        "strings": "#52db64",
+        "strings": "#64a76d",
         "keywords": "#a03bff",
         "comments": "#888888",
         "numbers": "#ce641d"
