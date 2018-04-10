@@ -10,6 +10,8 @@
     "workbench.colorCustomizations": {
         "activityBarBadge.background": "#f33d3d",
         "activityBarBadge.foreground": "#000000",
+        "badge.background": "#482c8a",
+        "badge.foreground": "#ffffff",
         "activityBar.background": "#482c8a",
         "editor.background": "#1f1f1f",
         "editor.foreground": "#616161",
@@ -24,7 +26,7 @@
         "statusBar.background": "#482c8a",
         "panel.background": "#1d1d1d",
         "sideBar.background": "#242424",
-        "selection.background": "#c2a7ff"
+        "selection.background": "#c2a7ff",
     },
     "editor.tokenColorCustomizations": {
         "functions": "#4b9fff",
