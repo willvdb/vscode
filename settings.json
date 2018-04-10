@@ -8,6 +8,8 @@
     "zenMode.hideTabs": false,
     "tslint.autoFixOnSave": true,
     "workbench.colorCustomizations": {
+        "activityBarBadge.background": "#f33d3d",
+        "activityBarBadge.foreground": "#000000",
         "activityBar.background": "#482c8a",
         "editor.background": "#1f1f1f",
         "editor.foreground": "#616161",
