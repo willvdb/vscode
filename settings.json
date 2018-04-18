@@ -5,6 +5,7 @@
     "editor.formatOnPaste": true,
     "editor.insertSpaces": false,
     "editor.snippetSuggestions": "top",
+    "editor.wordWrap": "on",
     "zenMode.hideTabs": false,
     "tslint.autoFixOnSave": true,
     "workbench.colorCustomizations": {
