@@ -30,12 +30,14 @@
         "selection.background": "#c2a7ff",
     },
     "editor.tokenColorCustomizations": {
-        "functions": "#4b9fff",
-        "variables": "#df2d2d",
-        "strings": "#64a76d",
-        "keywords": "#a03bff",
-        "comments": "#888888",
-        "numbers": "#ce641d"
+        "comments": "#76727c",
+        "functions": "#8645ff",
+        "keywords": "#745a8c",
+        "numbers": "#8a79a9",
+        "strings": "#957ab8",
+        "types": "#8556c2",
+        "variables": "#7f29f0"
+
     },
-    "workbench.colorTheme": "Fresh Material"
+    "window.zoomLevel": 0
 }
