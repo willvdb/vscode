@@ -34,9 +34,53 @@
         "functions": "#8645ff",
         "keywords": "#745a8c",
         "numbers": "#8a79a9",
-        "strings": "#957ab8",
+        "strings": "#e0c527",
         "types": "#8556c2",
-        "variables": "#7f29f0"
+        "variables": "#6a25c4",
+        
+        "textMateRules": [{
+            "scope": "entity.name.tag",
+            "settings": {
+                "foreground": "#7a15ff",
+                "fontStyle": "bold"
+            }
+        }, {
+            "scope": "entity.other.attribute-name",
+            "settings": {
+                "foreground": "#ff5353",
+                "fontStyle": "bold"
+            }
+        },{
+            "scope": "comment",
+            "settings": {
+                "foreground": "#a5a5a5",
+                "fontStyle": "bold"
+            }
+        },{
+            "scope": "entity.other.inherited-class",
+            "settings": {
+                "foreground": "#d84848",
+                "fontStyle": "bold"
+            }
+        },{
+            "scope": "keyword.operator.new",
+            "settings": {
+                "foreground": "#b9ab2e",
+                "fontStyle": "bold"
+            }
+        },{
+            "scope": "keyword.control",
+            "settings": {
+                "foreground": "#ff0000",
+                "fontStyle": "bold"
+            }
+        },{
+            "scope": "variable.name",
+            "settings": {
+                "foreground": "#ff0000",
+                "fontStyle": "bold"
+            }
+        }]
 
     },
     "window.zoomLevel": 0

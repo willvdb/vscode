@@ -3,5 +3,15 @@
     {
         "key": "ctrl+alt+b",
         "command": "HookyQR.beautifyFile"
+    },
+    {
+        "key": "f2 space",
+        "command": "editor.action.triggerSuggest",
+        "when": "editorHasCompletionItemProvider && textInputFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+space",
+        "command": "-editor.action.triggerSuggest",
+        "when": "editorHasCompletionItemProvider && textInputFocus && !editorReadonly"
     }
 ]
