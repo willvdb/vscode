@@ -9,7 +9,7 @@
     "zenMode.hideTabs": false,
     "tslint.autoFixOnSave": true,
     "workbench.colorCustomizations": {
-        "activityBarBadge.background": "#f33d3d",
+        "activityBarBadge.background": "#eb5353",
         "activityBarBadge.foreground": "#000000",
         "badge.background": "#7547df",
         "badge.foreground": "#ffffff",
@@ -21,7 +21,7 @@
         "tab.activeBackground": "#7547df",
         "tab.inactiveBackground": "#2e2e2e",
         "tab.inactiveForeground": "#a0a0a0",
-        "tab.activeBorder": "#ff4141",
+        "tab.activeBorder": "#eb5353",
         "editor.selectionBackground": "#482c8a",
         "sideBar.dropBackground": "#482c8a",
         "statusBar.background": "#482c8a",
@@ -30,12 +30,12 @@
         "selection.background": "#c2a7ff",
     },
     "editor.tokenColorCustomizations": {
-        "functions": "#4b9fff",
-        "variables": "#df2d2d",
-        "strings": "#64a76d",
-        "keywords": "#a03bff",
-        "comments": "#888888",
-        "numbers": "#ce641d"
+        // "functions": "#4b9fff",
+        // "variables": "#eb5353",
+        "strings": "#64a76d"
+        // "keywords": "#a03bff",
+        // "comments": "#888888",
+        // "numbers": "#ce641d"
     },
-    "workbench.colorTheme": "Fresh Material"
+    "workbench.colorTheme": "One Dark Pro"
 }
